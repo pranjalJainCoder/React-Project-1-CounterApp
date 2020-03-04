@@ -1,0 +1,12 @@
+.button{
+    font-size:16px;
+    background-color: green;
+    padding: 1px 1px;
+    width: 50px;
+    height: 30px;
+}
+
+.Counter{
+    font-size: 30px;
+    padding-left: 10px;
+}
